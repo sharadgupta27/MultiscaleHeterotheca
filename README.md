@@ -3,6 +3,8 @@ This repository hosts the code and data created for multiscale mapping of _Heter
 
 - A paper titled "Unveiling the Invasion: Advancing Ecological Mapping of Heterotheca subaxillaris through Integrated Remote Sensing Techniques with Drones and Satellites" has been accepted in IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (JSTARS).
 
+- Please wait for a few days. I will update the repository soon.
+
 `Contact: Sharad Kumar Gupta (sharadgupta27@gmail.com)`
 
 `Please do acknowledge if you are using this repository.`
