@@ -12,7 +12,7 @@ This repository is organized into four main folders, each containing data from a
 
 ### 1. Drone Data
 
-This folder contains high-resolution aerial imagery and derived products (e.g., orthomosaics, digital surface models) acquired using an unmanned aerial vehicle (UAV) or drone. The drone data provides fine-grained spatial details, enabling the precise identification and delineation of *H. subaxillaris* patches.
+This folder contains high-resolution aerial imagery based orthomosaics. The drone data provides fine-grained spatial details, enabling the precise identification and delineation of *H. subaxillaris* patches.
 
 ### 2. Vision-1 Satellite Data
 
