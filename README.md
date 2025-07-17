@@ -31,3 +31,6 @@ This folder contains data from the Sentinel-2 mission, part of the European Unio
 If you use this repository in your research, please cite the research paper:
 
 Gupta, S. K., Ben-Dor, E., & Sternberg, M. (2024). Unveiling the invasion: advancing ecological mapping of Heterotheca subaxillaris through integrated remote sensing techniques with drones and satellites. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 17*, 7193-7211.
+
+
+`Contact: Sharad Kumar Gupta (sharadgupta27@gmail.com)`
